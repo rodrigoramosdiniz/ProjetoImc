@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:5000/Imsc?WSDL" uri="wsdl/localhost_5000/Imsc.wsdl"/>
+    <system systemId="http://localhost:5000/Imsc?xsd=1" uri="wsdl/localhost_5000/Imsc.xsd_1.xsd"/>
+    <system systemId="http://localhost:7000/Imsc?WSDL" uri="wsdl/localhost_7000/Imsc.wsdl"/>
+    <system systemId="http://localhost:7000/Imsc?xsd=1" uri="wsdl/localhost_7000/Imsc.xsd_1.xsd"/>
+</catalog>
